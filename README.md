@@ -7,7 +7,10 @@ Tiene 3 opciones:
 * Generacion Realista.
 
 Contiene los siguientes archivos:
-1. Index.html
-2. Commons.ccs
-3. Commons.js
+* Index.html: Contiene el codigo principal de la aplicacion.
+* Commons.ccs: Contiene las hojas de estilo de la aplicacion.
+* Commons.js: Contiene el codigo java de la aplicacion.
+* terrain.png: contiene los sprites de las imagenes.
 
+Contiene las siguientes carpetas:
+* Imagenes:  Es la capeta que contiene las imagenes.
