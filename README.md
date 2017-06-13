@@ -14,3 +14,7 @@ Contiene los siguientes archivos:
 
 Contiene las siguientes carpetas:
 * Imagenes:  Es la capeta que contiene las imagenes.
+
+Este es un texto de ejempl
+
+Este es un texto de ejemplo
