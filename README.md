@@ -1,20 +1,18 @@
-# Generador de Terreno
-Un generador de terreno en javascript.
 
-Tiene 3 opciones:
-* Generacion aleatoria 
-* Generacion por bloques 
-* Generacion Realista.
+# Terrain Generator
+A terrain generator in javascript.
 
-Contiene los siguientes archivos:
-* Index.html: Contiene el codigo principal de la aplicacion.
-* Commons.ccs: Contiene las hojas de estilo de la aplicacion.
-* Commons.js: Contiene el codigo java de la aplicacion.
-* terrain.png: contiene los sprites de las imagenes.
+You have 3 options:
+* Random generation
+* Generation by blocks
+* Realistic generation.
 
-Contiene las siguientes carpetas:
-* Imagenes:  Es la capeta que contiene las imagenes.
+It contains the following files:
+* Index.html: Contains the main code of the application.
+* Commons.ccs: Contains style sheets for the application.
+* Commons.js: Contains the java code of the application.
+* terrain.png: contains the sprites of the images.
 
-Este es un texto de ejemplo
+It contains the following folders:
+* Images: It is the folder that contains the images.
 
-Mi jefe quiere mas cambios......
